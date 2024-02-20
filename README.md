@@ -1,4 +1,4 @@
-This repository includes the spot model (spot_model.ipynb) I used in [Roquette et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A.128R/abstract) for looking at typical amplitudes produced by spot variability in YSOs.
+This repository includes the spot model (`spot_model.ipynb`) I used in [Roquette et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A.128R/abstract) for looking at typical amplitudes produced by spot variability in YSOs.
 
 This spot-model for YSOs considering the formulation from [Bouvier et al. 1993](ttps://ui.adsabs.harvard.edu/abs/1993A%26A...272..176B/abstract)
 
