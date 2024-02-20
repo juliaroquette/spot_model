@@ -5,7 +5,8 @@ This spot-model for YSOs considering the formulation from [Bouvier et al. 1993](
 $$\Delta m=-2.5\log{\Bigg(1-\frac{f}{1-\frac{\mu}{3}}\Bigg[1-\frac{B_\lambda(T_\mathrm{spot})}{B_\lambda(T_*)}\Bigg]\Bigg)}$$
 
 where:
-- $m$ is the magnitude at a filter with an effective wavelength $\lambda$
+- $m$ is the magnitude at a filter with an effective wavelength $\lambda$.
+- $B_\lambda(T)$ are the value of a Planck-curve for a Black-Body for temperature $T$ at a wavelength $\lambda$.
 - $T_{spot}$ and $T_{*}$ are the spot and stellar temperature respectively. 
 - $f$ is the fraction of coverage by spots. 
 - $\mu$ is the limb darkening coefficient for that filter
